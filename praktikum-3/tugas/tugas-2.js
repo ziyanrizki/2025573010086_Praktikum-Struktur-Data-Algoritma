@@ -13,7 +13,6 @@ function balikString(str) {
 }
 
 function cekPalindrom(str) {
-    // Memanfaatkan fungsi balikString di atas
     let kataTerbalik = balikString(str);
     return str.toLowerCase() === kataTerbalik.toLowerCase();
 }

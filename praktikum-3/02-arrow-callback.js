@@ -29,7 +29,7 @@ console.log('\n=== setTimeout (Callback) ===');
 console.log('Pesan 1: Sebelum timer');
 setTimeout(() => {
     console.log('Pesan 3: Ini dari dalam setTimeout (setelah 1 detik)');
-}, 10000); 
+}, 1000); 
 console.log('Pesan 2: Setelah mendaftarkan timer');
 
 console.log('\n==== Latihan 2. Pipeline transformasi data ====');
