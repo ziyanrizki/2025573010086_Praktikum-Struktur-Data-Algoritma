@@ -1,0 +1,21 @@
+{
+  "name": "2025573010086_praktikum-struktur-data-algoritma",
+  "version": "1.0.0",
+  "description": "Kelas TI-1C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziyanrizki/2025573010086_Praktikum-Struktur-Data-Algoritma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ziyanrizki/2025573010086_Praktikum-Struktur-Data-Algoritma/issues"
+  },
+  "homepage": "https://github.com/ziyanrizki/2025573010086_Praktikum-Struktur-Data-Algoritma#readme"
+}
